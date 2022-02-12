@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm Henok from Ethiopia, and I mainly work on Web Development. I really enjoy learning languages and frameworks like Vue and React , as well as work in Laravel PHP fram work. I also enjoy working on web development in general.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henok-tesfu)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **henok-tesfu/henok-tesfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
