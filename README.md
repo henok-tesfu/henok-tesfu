@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Henok
-#### Full stack web developer 
+#### Software Engineer
 I'm Henok from Ethiopia, and I mainly work on Web Development. I really enjoy learning languages and frameworks like Vue and React , as well as work in Laravel PHP framework. I also enjoy working on web development in general.
 
 Skills: VUE JS / LARAVEL / TAILWIND CSS / JS / HTML / CSS
