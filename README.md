@@ -4,7 +4,7 @@ I'm Henok from Ethiopia, and I mainly work on Web Development. I really enjoy wo
 
 Skills: VUE JS / React js / LARAVEL / TAILWIND CSS / JS / HTML / CSS
 
-- 🔭 I’m currently working on Laravel and vue js project  
+- 🔭 I’m currently working on Laravel and vue js / react js project  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henok-tesfu)](https://github.com/anuraghazra/github-readme-stats)
 
